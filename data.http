@@ -1,0 +1,2 @@
+GET http://localhost:5000/api/v1/data?page=2&name='a'
+# https://us-east-1.aws.data.mongodb-api.com/app/application-0-gbqky/endpoint/api/v1/data
